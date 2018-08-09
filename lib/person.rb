@@ -1,6 +1,9 @@
 # person.rb
 class Person 
   def talk
-    puts "The person is walking"
+    puts "Hello World!"
   end
+  def walk 
+    puts "The person is walking" 
+  end 
 end
